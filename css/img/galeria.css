@@ -1,0 +1,20 @@
+.kodun-galeria {
+    display: flex;
+    height: 30rem;
+    gap: 1rem;
+    width: 80%; 
+    margin: 0 auto; 
+}
+
+.kodun-galeria > div {
+    flex: 1;
+    border-radius: 1rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    transition: all .8s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.kodun-galeria > div:hover {
+    flex: 5;
+}

@@ -1,0 +1,50 @@
+.contacto {
+    display: flex;
+    top: 70px;
+    top: 20px;
+    width: 70%;
+    margin: 0 auto;
+    background-color: #cbcbcb;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    color: white;
+}
+
+.contact-info {
+    color: black;
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 30%; 
+    margin-bottom: 10px;
+}
+
+.redes-sociales {
+    display: flex;
+    flex-direction: column; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.redes-sociales h2 {
+    margin-bottom: 10px;
+}
+
+.redes-sociales a {
+    display: flex;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.redes-sociales img {
+    max-width: 50px;
+}
+.redes-sociales2 {
+    max-width: 80px;
+}
+
+.formulario-contacto {
+    width: 30%; 
+}
+
+

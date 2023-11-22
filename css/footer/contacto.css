@@ -1,0 +1,21 @@
+.rodapePrincipal-contatoForm-legend {
+    font-size: 2rem;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.rodapePrincipal-contatoForm-fieldset{
+    
+}
+
+.rodapePrincipal-contatoForm-emailInput {
+    
+    margin-bottom: 10px; 
+    color: rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.rodapePrincipal-contatoForm-submit {
+    
+    width: 30%;
+    
+}

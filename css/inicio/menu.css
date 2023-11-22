@@ -1,0 +1,25 @@
+.navbar {
+    background-image: 0px;
+    top: 50px;
+    top: 20px;
+    width: 80%; 
+    margin: 0 auto; 
+    background-image: url(/css/inicio/img/casa_de_la_libertad_sucre.jpg); 
+    height: 10%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-size: cover;
+    background-size: end; 
+    background-position: center; 
+    color: rgb(69, 69, 69); 
+    border-radius: 1rem;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: rgb(255, 255, 255); 
+}
+
+.navbar-brand, .navbar-toggler-icon {
+    color: rgb(255, 255, 255) !important;
+}
+
+
