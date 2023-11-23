@@ -1,0 +1,7 @@
+.infomacion{
+    display: flex;
+    color: white;
+    padding: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    justify-content: center;
+}

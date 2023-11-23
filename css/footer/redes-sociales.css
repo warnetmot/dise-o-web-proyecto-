@@ -1,0 +1,19 @@
+.redes-sociales {
+    display: flex;
+    flex-direction: column; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.redes-sociales h2 {
+    margin-bottom: 10px;
+}
+
+.redes-sociales a {
+    display: flex;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.redes-sociales img {
+    max-width: 50px;
+}

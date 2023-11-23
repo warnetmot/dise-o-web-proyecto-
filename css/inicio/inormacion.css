@@ -1,5 +1,4 @@
 .inomacion {
-    
    display: flex;
     width: 80%;
     color: white;
@@ -8,34 +7,7 @@
     text-align: justify; 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.infomacion{
-    display: flex;
-    color: white;
-    padding: 20px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    justify-content: center;
-}
-.inomacion2{
-    display: flex;
-    color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    justify-content: center;
-}
-.infomacion-carusel{
-    color: rgb(255, 255, 255);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 2rem;
-}
-.inomacion-carusel{
-    color: rgb(255, 255, 255);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 2rem;
-}
-.contanctos{
-    display: flex;
-    color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    justify-content: center;
-}
+
+
+
+
